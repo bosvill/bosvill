@@ -46,8 +46,26 @@
           
 </p>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bosvill&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bosvill&show_icons=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bosvill&show_icons=true" />
+</picture>
+
+
+
 
 <!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&layout=donut-vertical)](https://github.com/bosvill/github-readme-stats)
+
 <p><img alt="Static Badge" src="https://img.shields.io/badge/logo=js-javascript-8A2BE2">
 
 bosvill/bosvill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
