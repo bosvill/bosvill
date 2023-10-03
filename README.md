@@ -1,9 +1,6 @@
-# Hi 👋, I'm Svitlana
-#### A passionate web developer
+![Greeting](banner.png)
 
-🔭 I’m currently working on **cv**
-
-🌱 I’m currently learning **TypeScript**
+#### I'm Svitlana, a passionate web developer
 
 
 ### Tech
@@ -38,6 +35,9 @@
 
 
 <!---
+🔭 I’m currently working on **cv**
+
+🌱 I’m currently learning **TypeScript**
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Svitlana================================================================================================================================Web Developer-------------* 🧠  I'm learning Typescipt
 
 ### Skills
