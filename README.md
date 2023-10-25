@@ -1,4 +1,4 @@
-![Greeting](banner.png)
+![Greeting](layered-banner.png)
 
 #### I'm Svitlana, a passionate web developer
 
