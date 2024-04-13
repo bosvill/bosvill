@@ -28,10 +28,10 @@
 ### My GitHub Stats
 
 <a href="http://www.github.com/bosvill">
-<img src="https://github-readme-stats.vercel.app/api?username=bosvill&theme=transparent&show_icons=true&count_private=true&title_color=0891b2&text_color=#12261e&icon_color=a63992&hide_border=false" alt="bosvill's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=bosvill&theme=react&show_icons=true&count_private=true&title_color=0891b2&icon_color=a63992&hide_border=false" alt="bosvill's GitHub stats" /></a>
 <br/>
 <a href="https://github.com/bosvill" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&theme=transparent&show_icons=true&langs_count=10&title_color=0891b2&text_color=#12261e&layout=compact" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&theme=react&show_icons=true&langs_count=10&title_color=0891b2&text_color=#12261e&layout=compact" alt="Top Languages" /></a>
 
 
 
