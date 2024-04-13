@@ -27,10 +27,11 @@
 <!---mysql &logoColor=4479A1--->
 ### My GitHub Stats
 
-<a href="http://www.github.com/bosvill"><img src="https://github-readme-stats.vercel.app/api?username=bosvill&theme=transparent&show_icons=true&count_private=true&title_color=0891b2&text_color=#12261e&icon_color=0891b2&hide_border=false" alt="bosvill's GitHub stats" /></a>
-
-<a href="https://github.com/bosvill" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&theme=transparent&show_icons=true&langs_count=10&title_color=0891b2&text_color=#12261e&icon_color=0891b2&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="http://www.github.com/bosvill">
+<img src="https://github-readme-stats.vercel.app/api?username=bosvill&theme=transparent&show_icons=true&count_private=true&title_color=0891b2&text_color=#12261e&icon_color=a63992&hide_border=false" alt="bosvill's GitHub stats" /></a>
+<br/>
+<a href="https://github.com/bosvill" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&theme=transparent&show_icons=true&langs_count=10&title_color=0891b2&text_color=#12261e&layout=compact" alt="Top Languages" /></a>
 
 
 
@@ -40,7 +41,17 @@
 🌱 I’m currently learning **TypeScript**
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Svitlana================================================================================================================================Web Developer-------------* 🧠  I'm learning Typescipt
 
+<div id="stat" align="left">
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bosvill&theme=aura'/>
+<br/>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bosvill&theme=aura'/>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bosvill&theme=aura'/>
+</div>
+
+<a href="https://github.com/bosvill" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosvill&show_icons=true&langs_count=10&title_color=0891b2&text_color=#12261e&icon_color=0891b2&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Skills
+
+
 
 
 <p align="left">
